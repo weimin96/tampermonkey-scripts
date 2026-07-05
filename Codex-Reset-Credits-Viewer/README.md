@@ -1,20 +1,18 @@
-# ChatGPT Codex Reset Credits Viewer
+# ChatGPT Codex 重置额度查看器
 
-[![Version](https://img.shields.io/badge/version-0.1.3-blue)](Codex-Reset-Credits-Viewer.user.js)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![版本](https://img.shields.io/badge/version-0.1.3-blue)](Codex-Reset-Credits-Viewer.user.js)
+[![许可证](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Greasy Fork](https://img.shields.io/badge/Greasy%20Fork-install-green)](https://greasyfork.org/zh-CN/scripts/584519-chatgpt-codex-reset-credits-viewer)
-[![GitHub](https://img.shields.io/badge/GitHub-weimin96%2FCodex--Reset--Credits--Viewer-black)](https://github.com/weimin96/Codex-Reset-Credits-Viewer)
+[![GitHub](https://img.shields.io/badge/GitHub-weimin96%2FCodex--Reset--Credits--Viewer-black)](https://github.com/weimin96/tampermonkey-scripts/tree/main/Codex-Reset-Credits-Viewer)
 
-English | [简体中文](README.zh-CN.md)
+这是一个用于 `chatgpt.com` 的用户脚本，可以查看当前登录账号的 Codex reset credits、最近 Credit 过期时间和下次额度重置时间。
 
-A userscript for `chatgpt.com` that shows Codex reset credits, the nearest credit expiration time, and the next usage reset time for the current signed-in account.
+界面会根据浏览器或页面语言自动切换英文和简体中文。
 
-The interface automatically switches between English and Simplified Chinese based on the browser or page language.
+[在 Greasy Fork 安装](https://greasyfork.org/zh-CN/scripts/584519-chatgpt-codex-reset-credits-viewer)
 
-[Install on Greasy Fork](https://greasyfork.org/zh-CN/scripts/584519-chatgpt-codex-reset-credits-viewer)
+## 截图
 
-## Screenshots
-
-| Floating entry | Credits panel |
+| 悬浮入口 | 额度面板 |
 | --- | --- |
-| ![Floating entry](screenshot/1.png) | ![Credits panel](screenshot/2.png) |
+| ![悬浮入口](screenshot/1.png) | ![额度面板](screenshot/2.png) |
