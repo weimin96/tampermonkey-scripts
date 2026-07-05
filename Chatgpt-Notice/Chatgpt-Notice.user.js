@@ -4,8 +4,8 @@
 // @namespace    https://github.com/weimin96/tampermonkey-scripts
 // @version      1.0.0
 // @license      MIT
-// @description  Send system notification and sound when ChatGPT finishes generating a reply, with false-positive prevention for page refresh/entry
-// @description:zh-CN ChatGPT 网页端 AI 输出完成后发送系统通知和音效，避免刷新/进入页面误通知
+// @description  Send system notification and sound when ChatGPT finishes generating a reply
+// @description:zh-CN ChatGPT 网页端 AI 输出完成后发送系统通知和音效
 // @homepageURL  https://github.com/weimin96/tampermonkey-scripts/tree/main/Chatgpt-Message-Hide/Chatgpt-Notice
 // @supportURL   https://github.com/weimin96/tampermonkey-scripts/issues
 // @match        https://chatgpt.com/*

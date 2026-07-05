@@ -6,11 +6,11 @@ Tampermonkey 用户脚本集合。
 
 ### [ChatGPT Message Hide](./Chatgpt-Message-Hide/Chatgpt-Message-Hide.user.js)
 
-在 ChatGPT 每条 AI 回复的「回复操作」区域添加隐藏/显示按钮，支持一键隐藏或恢复单条 AI 输出。隐藏状态持久化到 localStorage。
+在 ChatGPT 每条 AI 回复的「回复操作」区域添加隐藏/显示按钮。
 
 ### [ChatGPT 回复完成通知 + 音效](./Chatgpt-Message-Hide/Chatgpt-Notice/Chatgpt-Notice.user.js)
 
-ChatGPT 网页端 AI 输出完成后发送系统通知并播放音效，避免页面刷新或首次进入时误触发。
+ChatGPT 网页端 AI 输出完成后发送系统通知并播放音效。
 
 ### [ChatGPT Codex Reset Credits Viewer](./Codex-Reset-Credits-Viewer/Codex-Reset-Credits-Viewer.user.js)
 
